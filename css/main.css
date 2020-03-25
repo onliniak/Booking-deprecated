@@ -1,0 +1,7 @@
+:root {
+  --row-height: 52px;
+}
+
+abc {
+  height: var(--row-height);
+}
